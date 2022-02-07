@@ -1,8 +1,8 @@
 # 🎉 About me
 
 * 🇺🇸 Denver, CO, USA based
-* **11** years+ of professional programming experience
-* **20** years+ of overall programming experience
+* **12** years+ of professional programming experience
+* **22** years+ of overall programming experience
 * .NET Core back-end developer
 * .NET Core microservices developer
 * 🏆Coach / Team player

@@ -40,8 +40,15 @@ const karol = {
   },
   education: {
     linguistics: "Katholieke Universiteit Leuven 🇧🇪",
-    languages: ["English", "Polish", "Dutch", "German", "Spanish", "French"]
+    languages: ["English", "Polish", "Dutch", "German", "Swedish", "Russian", "Hungarian"]
   },
+  computingJourney: [
+    "Amiga 500 (AMOS + M68K assembly) - where it all began",
+    "C on PCs - systems programming foundation",
+    "PHP - web development era",
+    ".NET since 'Microsoft Cool' beta days",
+    "...and everything that came after"
+  ],
   currentStack: ["C#", "Go", "TypeScript", "C", "PHP", "Docker", "Linux"],
   architecture: [
     "System design & technical leadership",

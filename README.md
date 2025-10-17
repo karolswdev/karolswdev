@@ -3,10 +3,10 @@
 
 **From life-critical medical devices to living game worlds. 28 years of building systems across domains most engineers never touch.**
 
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED)
@@ -15,10 +15,10 @@
 
 ### 🎯 What I'm Building Now
 
-**[docket](https://docketly.io)** - Your swiss army knife for producing beautiful `.docx` and `.pptx` documents
-*TypeScript • Document Generation • Developer Tools*
+**[docketly.io](https://docketly.io)** - Enabling Architects and Tech Leads to create professional and beautiful technical outputs. Generate stunning `.docx` and `.pptx` documents with architectural precision.
+*TypeScript • Document Generation • Technical Documentation*
 
-**[ticketr](https://github.com/karolswdev/ticketr)** - Your all-in-one JIRA helper (yeah, I'm crushing on Go right now)
+**[ticketr](https://github.com/karolswdev/ticketr) v1.0.0 🎉** - Your all-in-one JIRA helper (yeah, I'm crushing on Go right now). Just shipped 1.0.0!
 *Go • Productivity • Workflow Automation*
 
 ---
@@ -33,8 +33,8 @@ const karol = {
     total: "28+ years",
     domains: [
       "Medical device systems (where bugs cost lives)",
-      "MMO game servers (Ultima Online emulators, 1000+ concurrent players)",
-      "FPS engines (QuakeWorld clients & servers)",
+      "MMO game servers (Ultima Online: community management, reverse engineering, building tooling, worlds, teams of GameMasters)",
+      "FPS engines (QuakeWorld: fast-paced UDP, server-synchronization, client-side-prediction for smooth gameplay)",
       "Developer tooling (because we all hate JIRA)"
     ]
   },
@@ -42,27 +42,23 @@ const karol = {
     linguistics: "Katholieke Universiteit Leuven 🇧🇪",
     languages: ["English", "Polish", "Dutch", "German", "Spanish", "French"]
   },
-  currentStack: ["Go", "TypeScript", "C#", "C++", "PHP", "Docker", "Linux"],
-  architecture: ["Microservices", "Event-driven systems", "Real-time multiplayer"],
+  currentStack: ["C#", "Go", "TypeScript", "C", "PHP", "Docker", "Linux"],
+  architecture: [
+    "System design & technical leadership",
+    "Microservices & distributed systems",
+    "Event-driven architecture",
+    "Real-time multiplayer systems",
+    "Technical documentation & ADRs",
+    "Team scaling & mentorship"
+  ],
   philosophy: "Build systems that scale. Ship code that matters. Learn constantly.",
   whenNotCoding: {
     sky: "Flying paramotors 🪂",
     space: "Stargazing 🛰",
-    speed: "Motorsport enthusiast 🏎"
+    speed: "2014 Belgium adult karting champion 🏆 • Top 1% iRacing driver 🏎"
   }
 }
 ```
-
----
-
-### 💡 From My Workshop
-
-- 🎮 **Ultima Online DMR** - Complete MMO emulator and shard infrastructure
-- 🎯 **ezQuake** - QuakeWorld client/server engine contributions
-- 🎲 **Kula World** - Browser-based game recreation
-- 🔧 **docwalker** - Convert `.docx` to `.md` with image preservation
-- 🤖 **traceforge** - Orchestrated agents with full traceability
-- 📊 **docloom** - AI-powered technical documentation
 
 ---
 
